@@ -11,3 +11,6 @@ You can use the existing AllDetails2.csv file here if you dont want to run the p
 The twb file has all the dashboards, visualizations, and storyboard. It uses both NYPD_Arrest_data_Year_to_Date.csv data and AllDetails2.csv data.
 AllDetails2.csv is used for the Dashboard and graphs made by Fourcan Abdullah
 NYPD_Arrest_data_Year_to_Date.csv is used by Mike Esquivel and Dawa Sonam
+
+Link to live Demo: [Demo](https://public.tableau.com/app/profile/fourcan.abdullah/viz/Book3_16992262333450/ArrestDataStory)
+Link to Original Dataset: [Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc)
